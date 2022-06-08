@@ -1,0 +1,65 @@
+body
+{
+    background-color: rgb(154, 82, 10);
+    color: rgb(240, 235, 230);
+}
+
+label 
+{
+    font-size: 18px;
+    color: rgba(155, 108, 71, 0.798);
+    background-color: rgb(207, 159, 125);
+    padding: 10px;
+    border-radius: 8px;
+}
+
+#div_1
+{
+    background-color: rgb(118, 55, 11);
+    float: none;
+    padding: 10px;
+}
+
+
+#div_2
+{
+    background-color: rgb(118, 55, 11);
+    float: none;
+    padding: 10px;
+}
+
+
+#div_3
+{
+    background-color: rgb(118, 55, 11);
+    float: none;
+    padding: 10px;
+}
+
+
+#div_4
+{
+    background-color: rgb(118, 55, 11);
+    float: none;
+    padding: 10px;
+}
+
+
+#div_5
+{
+    background-color: rgb(118, 55, 11);
+    float: none;
+    padding: 10px;
+}
+
+img
+{
+    border: 2px solid rgb(131, 73, 31);
+}
+
+#div
+{
+    background-color: rgb(118, 55, 11);
+    float: none;
+    padding: 5px;
+}
